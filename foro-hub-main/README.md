@@ -11,7 +11,7 @@ Foro Hub es una aplicación que permite la gestión de foros con funcionalidades
 ## Tecnologías Utilizadas
 - **Java JDK**: versión 17 en adelante
 - **Maven**: versión 4 en adelante
-- **Spring**: versión 3.2.3 - [Spring Initializr](https://start.spring.io/)
+- **Spring**: versión 3.2.3 
 - **Postgress**: versión 11 en adelante
 - **IDE (IntelliJ IDEA)**: opcional
 
